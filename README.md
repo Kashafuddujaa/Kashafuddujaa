@@ -53,27 +53,3 @@ I craft secure, elegant digital experiences with 5+ years of transforming comple
 
 ---
 
-## 🧠 Knowledge Base
-
-```typescript
-// Sample security middleware
-const secureAPI = (req: Request, res: Response, next: NextFunction) => {
-  implementOWASPChecks();
-  validateJWT();
-  applyRateLimiting();
-  next();
-}
-
-// AI integration pattern
-const generateContent = (prompt) => {
-  return fetchAICompletion(prompt)
-    .then(applySafetyFilters)
-    .then(formatForWeb);
-}
-
-
-<div align="center">
-Visitor Count
-
-</div> ```
-
