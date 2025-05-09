@@ -70,3 +70,10 @@ const generateContent = (prompt) => {
     .then(applySafetyFilters)
     .then(formatForWeb);
 }
+
+
+<div align="center">
+Visitor Count
+
+</div> ```
+
