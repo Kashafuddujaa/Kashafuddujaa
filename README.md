@@ -1,55 +1,32 @@
 # Kashaf Ud Duja 🚀
-
-**Software Architect | Web Artisan | Security Specialist | AI Explorer**
-
-I craft secure, elegant digital experiences with 5+ years of transforming complex problems into intuitive solutions. My code is my canvas - every line tells a story.
+**Software Architect • Web Artisan • Security Specialist • AI Explorer**
 
 ---
 
-## 📈 GitHub Analytics
+### 🖋️ About Me
+I craft secure, elegant digital experiences with 5+ years of transforming complex problems into intuitive solutions. My code is my canvas — every line tells a story.
 
-<div align="center">
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kashafuddujaa&show_icons=true&theme=radical&hide_border=true)
-
-| Metric | Value |
-|--------|-------|
-| Total Stars | 24 ⭐ |
-| Contributions | 128 🎯 | 
-| Repositories | 18 📦 |
-| Issues Resolved | 9 ✅ |
-| Gists Created | 5 📝 |
-
-</div>
+- 🔭 **Focusing on:** Secure cloud architectures and AI integrations.
+- 🌱 **Diving into:** Advanced Threat Intelligence & Large Language Models.
+- ⚡ **Superpowers:** Cybersecurity, React, Node.js, and System Design.
+- 📫 **Direct Line:** [kashafudduja994@gmail.com](mailto:kashafudduja994@gmail.com)
 
 ---
 
-## 🛠️ Technical Arsenal
+### 🛠️ Technical Arsenal
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px;">
-
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF6D00?logo=lock&logoColor=white)
-![AI/ML](https://img.shields.io/badge/-AI/ML-FF6D00?logo=tensorflow&logoColor=white)
-
-</div>
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Specialized** | ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-E34F26?style=flat-square&logo=hackthebox&logoColor=white) ![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
 
 ---
 
-## 🔥 Featured Creations
-
-<div style="display: flex; flex-wrap: wrap; gap: 16px; margin-top: 20px;">
-
-[![Project Manager](https://github-readme-stats.vercel.app/api/pin/?username=Kashafuddujaa&repo=project-manager&theme=dark)](https://github.com/Kashafuddujaa/project-manager)
-
-[![TypeScript Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=Kashafuddujaa&repo=Typescript&theme=dark)](https://github.com/Kashafuddujaa/Typescript)
-
-[![Node API Suite](https://github-readme-stats.vercel.app/api/pin/?username=Kashafuddujaa&repo=node-express-mongodb&theme=dark)](https://github.com/Kashafuddujaa/node-express-mongodb)
-
-</div>
-
----
-
+### 🤝 Let's Collaborate
+<p align="left">
+<a href="https://www.linkedin.com/in/kashafudduja-ahmed-32b8b5236/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kashafudduja994@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Kashafuddujaa" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
